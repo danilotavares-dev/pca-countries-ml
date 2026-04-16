@@ -10,6 +10,7 @@ matplotlib = "*"
 scikit-learn = "*"
 seaborn = "*"
 plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 
